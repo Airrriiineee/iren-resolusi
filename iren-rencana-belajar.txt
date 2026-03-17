@@ -7,3 +7,9 @@ RENCANA BELAJAR IREN
 - Refresh HTML, CSS, JS
 - Buat Landing Page
 - Collab pake Spline juga buat 3D
+- buat landing page untuk ministry biar semakin berkembang gerejanya dan update
+  * kegiatan arrow
+  * kegiatan sekolah minggu
+  * ibadah minggu
+  * layanan
+  * lokasi (google map)
