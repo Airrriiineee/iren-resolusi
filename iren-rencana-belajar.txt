@@ -13,3 +13,4 @@ RENCANA BELAJAR IREN
   * ibadah minggu
   * layanan
   * lokasi (google map)
+  * info GC
