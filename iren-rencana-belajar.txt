@@ -10,7 +10,8 @@ RENCANA BELAJAR IREN
 - buat landing page untuk ministry biar semakin berkembang gerejanya dan update
   * kegiatan arrow
   * kegiatan sekolah minggu
-  * ibadah minggu
+  * info ibadah 
+  * pastoral info 
   * layanan
   * lokasi (google map)
   * info GC
