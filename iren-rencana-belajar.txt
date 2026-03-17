@@ -1,5 +1,7 @@
 RENCANA BELAJAR IREN
 - Les mandarin tiap selasa & jumat
+  * latihan menulis hanzi 
+  * mengerjakan workbook
 - Refresh Git & Github
 - Refresh HTML, CSS, JS
 - Buat Landing Page
